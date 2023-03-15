@@ -1,0 +1,9 @@
+.CardFormulario {
+  width: 70%;
+}
+
+.card {
+  -webkit-box-shadow: 5px 5px 25px 0px rgba(26, 26, 26, 1) !important;
+  -moz-box-shadow: 5px 5px 25px 0px rgba(26, 26, 26, 1) !important;
+  box-shadow: 5px 5px 25px 0px rgba(26, 26, 26, 1) !important;
+}

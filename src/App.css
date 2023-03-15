@@ -1,0 +1,7 @@
+.containerLogin {
+    height: 100vh;
+    background-image: url('./assets/login_iventory.png');
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+}
